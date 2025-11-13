@@ -1,4 +1,4 @@
-### Assignment Topic: Time Harmonic Fields**
+### **Assignment Topic: Time Harmonic Fields**
 
 ### 1. **Aim**
 
@@ -8,7 +8,7 @@ To study the concept of **Time Harmonic Fields**, understand their mathematical 
 
 ---
 
-### 2.** Apparatus / Requirements**
+### 2.**Apparatus / Requirements**
 
 * Knowledge of basic **Maxwell’s equations**
 * Understanding of **sinusoidal functions and phasors**
@@ -110,6 +110,7 @@ This equation governs the behavior of electromagnetic waves in various media suc
 
 
 ---
+
 
 ### **5. Applications**
 
