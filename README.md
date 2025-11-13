@@ -134,6 +134,7 @@ This equation governs the behavior of electromagnetic waves in various media suc
 
 
 ---
+
 ### **7. Conclusion**
 
 Time Harmonic Fields are a fundamental concept in electromagnetic theory that simplify the study of time-varying fields by assuming sinusoidal variation. By transforming Maxwell’s equations into their frequency-domain equivalents, complex field problems become easier to analyze and solve.
