@@ -138,9 +138,8 @@ This equation governs the behavior of electromagnetic waves in various media suc
 
 Time Harmonic Fields are a fundamental concept in electromagnetic theory that simplify the study of time-varying fields by assuming sinusoidal variation. By transforming Maxwell’s equations into their frequency-domain equivalents, complex field problems become easier to analyze and solve.
 This approach is widely used in **AC circuits, transmission lines, antennas, and microwave systems**, forming the foundation for modern electrical and communication engineering applications.
+
 <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/81585ed1-ce29-4544-a6c8-3bccbd63e41e" />
 
 
 ---
-
-Would you like me to make this into a **formatted, ready-to-submit PDF version** (with equations neatly typeset and a simple diagram showing sinusoidal field variation)?
